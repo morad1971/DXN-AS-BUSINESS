@@ -159,9 +159,12 @@
             <div class="example-section text-center mt-12 py-8">
                 <h2 class="text-2xl font-bold text-brand-blue font-title">الخلاصة...</h2>
                 <p class="mt-3 text-lg text-gray-700 max-w-lg mx-auto">شفتي كيف الموضوع ببلش بخطوة بسيطة؟ ببلش من قرارك إنك تستخدمي منتجات صحية لبيتك، وبكبر لما تشاركي هاي الفايدة مع الناس اللي حواليكي. الموضوع مش سحر، هو عبارة عن خطوات صغيرة ومستمرة بتوصل لنتائج كبيرة.</p>
-                <div class="mt-6">
-                    <a href="https://morad1971.github.io/hanada-public-form/" class="inline-block bg-brand-blue text-white font-bold text-lg px-8 py-3 rounded-full shadow-lg hover:bg-opacity-90 transition duration-300">
+                <div class="mt-6 flex flex-col items-center gap-4">
+                    <a href="https://morad1971.github.io/hanada-public-form/" class="inline-block bg-brand-blue text-white font-bold text-lg px-8 py-3 rounded-full shadow-lg hover:bg-opacity-90 transition duration-300 w-full sm:w-auto">
                         انضمام عضو جديد
+                    </a>
+                    <a href="https://morad1971.github.io/hanada-support/" class="text-gray-600 hover:text-brand-blue transition">
+                        لست متأكدة من الانضمام .. تعالي احكيلك
                     </a>
                 </div>
             </div>
